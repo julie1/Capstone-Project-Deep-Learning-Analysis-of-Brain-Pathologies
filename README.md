@@ -10,4 +10,4 @@ which can be classified as high-grade (HGG) with a poor prognosis or low-grade
 (LGG) with a better prognosis will be considered. Additionally, patient MRI’s
 with brain lesions caused by ischemic stroke will be analyzed. The report 
 https://github.com/julie1/Capstone-Project-Deep-Learning-Analysis-of-Brain-Pathologies/blob/master/CapstoneProject.pdf
-details my methods and results.  I have 
+details my methods and results.  I have used the deepmedic code 

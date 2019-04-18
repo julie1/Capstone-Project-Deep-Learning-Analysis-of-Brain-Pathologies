@@ -10,4 +10,6 @@ which can be classified as high-grade (HGG) with a poor prognosis or low-grade
 (LGG) with a better prognosis will be considered. Additionally, patient MRI’s
 with brain lesions caused by ischemic stroke will be analyzed. The report 
 https://github.com/julie1/Capstone-Project-Deep-Learning-Analysis-of-Brain-Pathologies/blob/master/CapstoneProject.pdf
-details my methods and results.  I have used the deepmedic code 
+details my methods and results.  I have used the deepmedic 3-dimensional convolution neural network code https://github.com/Kamnitsask/deepmedic
+with several small modifications and some additional code to segment brain MRI images with stroke.
+For segmenting brain MRI's with glial cell tumors (gliomas), the 2-dimensional U-net approach

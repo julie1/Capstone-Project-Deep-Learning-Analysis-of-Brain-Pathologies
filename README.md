@@ -17,4 +17,4 @@ For segmenting brain MRI's with glial cell tumors (gliomas), the 2-dimensional U
 https://github.com/zsdonghao/u-net-brain-tumor proved more successful.  I have used the model and training
 code from this repository with modifications, and have added code for data preparation and for distinguishing
 low grade gliomas from high grade gliomas. HTML files containing my results
-are included in the repository 
+are included in the repository as well as the configuration files used with deepmedic.

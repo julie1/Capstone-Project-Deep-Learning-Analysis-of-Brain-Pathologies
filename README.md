@@ -14,7 +14,7 @@ details my methods and results.  I have used the deepmedic 3-dimensional convolu
 with several small modifications and some additional code to segment brain MRI images with stroke.
 The additional code includes data preparation and a conditional random field.
 For segmenting brain MRI's with glial cell tumors (gliomas), the 2-dimensional U-net approach of 
-https://github.com/zsdonghao/u-net-brain-tumor was more successful.  I have used the model and training
+https://github.com/zsdonghao/u-net-brain-tumor proved more successful.  I have used the model and training
 code from this repository with modifications, and have added code for data preparation and for distinguishing
 low grade gliomas from high grade gliomas. HTML files containing my results
 are included in the repository 
